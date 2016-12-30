@@ -1,0 +1,2 @@
+# listViewandSpinner
+点击listview上item适配另一个activity上的spinner数据。
